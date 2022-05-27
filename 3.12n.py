@@ -1,3 +1,4 @@
+# This code will show you the output of which season a month/day falls in.
 input_month = input()
 input_day = int(input())
 
